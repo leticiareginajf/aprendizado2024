@@ -1,4 +1,4 @@
-package classes;
+package classes.Data;
 
 public class Data {
     int dia;
